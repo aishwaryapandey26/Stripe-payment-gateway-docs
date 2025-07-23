@@ -13,7 +13,7 @@ and will be useful for developers looking to implement payment solutions in thei
 - [Authentication](#authentication)
 - [Payment Flow](#payment-flow)
 - [API Endpoints Overview](#api-endpoints-overview)
-- - [Full API Documentation](#full-api-documentation)
+- [Full API Documentation](#full-api-documentation)
 - [Testing the Integration](#testing-the-integration)
 - [License](#license)
 ---
