@@ -128,5 +128,5 @@ stripe listen --forward-to localhost:3000/webhook
 - Stripe.js and PaymentIntent API covered
 ---
 ## Author
-*Written by [Your Name], Technical Writer 
+*Aishwarya Pandey, Technical Writer 
 
